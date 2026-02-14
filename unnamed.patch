@@ -1,0 +1,17 @@
+Index: app/src/main/res/layout/activity_main.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/layout/activity_main.xml b/app/src/main/res/layout/activity_main.xml
+--- a/app/src/main/res/layout/activity_main.xml
++++ b/app/src/main/res/layout/activity_main.xml
+@@ -59,7 +59,7 @@
+         </androidx.cardview.widget.CardView>
+ 
+         <androidx.cardview.widget.CardView
+-            android.id="@+id/my_sharable_files_card"
++            android:id="@+id/my_sharable_files_card"
+             android:layout_width="match_parent"
+             android:layout_height="0dp"
+             android:layout_weight="1"

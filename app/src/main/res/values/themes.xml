@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.VITShare2" parent="Theme.Material3.DayNight.NoActionBar">
+        <!--
+            Define your primary colors directly.
+        -->
+        <item name="colorPrimary">@color/accent_color</item>
+        <item name="colorPrimaryVariant">@color/accent_color</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/accent_color</item>
+        <item name="colorSecondaryVariant">@color/accent_color</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/app_background</item>
+    </style>
+
+    <!-- This is the main theme for your app. The name now matches the manifest. -->
+    <style name="Theme.VITShare2" parent="Base.Theme.VITShare2" />
+
+    <!-- Style for the rounded-square FAB shape -->
+    <style name="ShapeAppearance.App.Fab" parent="ShapeAppearance.Material3.SmallComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+    </style>
+
+</resources>

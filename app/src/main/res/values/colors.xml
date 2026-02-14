@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- App Theme Colors -->
+    <color name="app_background">#1C1C2E</color>
+    <color name="card_background">#2D2D44</color>
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <color name="accent_color">#9C27B0</color>
+    <color name="selected_item_background">#4A3F78</color>
+    <color name="green_check">#00C853</color>
+</resources>
