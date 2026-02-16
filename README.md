@@ -2,6 +2,8 @@
 
 **VIT Share** is a modern, cross-platform peer-to-peer (P2P) file sharing application designed for seamless file transfer between Windows desktops and Android devices over a local network.
 
+<img width="1920" height="1020" alt="Screenshot 2026-02-10 172005" src="https://github.com/user-attachments/assets/3bd4bed5-737c-41d3-aa6f-92212b1ed076" />
+
 ## Features
 
 - **Cross-Platform Support**: Effortlessly share files between Windows (Python Desktop App) and Android.
@@ -99,3 +101,4 @@ The app requires the following permissions to function correctly:
 ## License
 
 [MIT License](LICENSE) (Assuming MIT Use as per standard open-source norms, please update if different)
+
